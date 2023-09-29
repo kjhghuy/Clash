@@ -458,6 +458,7 @@ payload:
   - DOMAIN-SUFFIX,st.dl.eccdnx.com
   - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
   - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steam-api.com
   - DOMAIN-SUFFIX,steam.apac.qtlglb.com
   - DOMAIN-SUFFIX,steam.cdn.on.net
   - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
