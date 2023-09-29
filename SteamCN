@@ -467,7 +467,6 @@ payload:
   - DOMAIN-SUFFIX,steam.naeu.qtlglb.com
   - DOMAIN-SUFFIX,steam.ru.qtlglb.com
   - DOMAIN-SUFFIX,steambroadcast.akamaized.net
-  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamcontent.tnkjmec.com
